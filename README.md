@@ -5,11 +5,17 @@
 
 
 **This is a group project contributed by 
+
 Zan Zhang ,
+
 Derek Taylor,
+
 Sanjeeva Rajapakse,
+
 Fred Qi,
+
 Angela Fan.
+
 Please check the details of code as following url:
 (https://github.com/zanenzhang/CIS5500-Team-Project_Web-Application)**
 

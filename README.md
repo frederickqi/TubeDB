@@ -2,6 +2,7 @@
 
 
 **Welcome to TubeDB! This is Team BugBusters' final project submission for CIS5500(University of Pennsylvania).**
+
 **This is a project contributed by Zan Zhang,Derek Taylor,Sanjeeva Rajapakse,Fred Qi,Angela Fan.**
 
 Video Demo: https://www.loom.com/share/b5180d7e1da34919b8e8a41e199716e1

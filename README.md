@@ -3,7 +3,9 @@
 
 **Welcome to TubeDB! This is Team BugBusters' final project submission for CIS5500(University of Pennsylvania).**
 
-**This is a project contributed by Zan Zhang,Derek Taylor,Sanjeeva Rajapakse,Fred Qi,Angela Fan.**
+
+**This is a project contributed by Zan Zhang,Derek Taylor,Sanjeeva Rajapakse,Fred Qi,Angela Fan.Please check the details of code as following url:
+(https://github.com/zanenzhang/CIS5500-Team-Project_Web-Application)**
 
 Video Demo: https://www.loom.com/share/b5180d7e1da34919b8e8a41e199716e1
 Report: [Final Report - CIS5500.pdf](https://github.com/zanenzhang/CIS5500-Team-Project/files/9367292/Final.Report.-.CIS5500.pdf)

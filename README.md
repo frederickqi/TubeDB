@@ -4,7 +4,7 @@
 **Welcome to TubeDB! This is Team BugBusters' final project submission for CIS5500(University of Pennsylvania).**
 
 
-This is a group project contributed by 
+This is a group project created by 
 
 Zan Zhang ,
 

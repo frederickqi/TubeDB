@@ -1,7 +1,8 @@
 ![RedLogo](https://user-images.githubusercontent.com/71825413/185238293-f0140573-f7e2-4158-aac8-873ac2126e20.png)
 
 
-**Welcome to TubeDB! This is Team BugBusters' final project submission for CIS5500.**
+**Welcome to TubeDB! This is Team BugBusters' final project submission for CIS5500(University of Pennsylvania).**
+**This is a project contributed by Zan Zhang,Derek Taylor,Sanjeeva Rajapakse,Fred Qi,Angela Fan.**
 
 Video Demo: https://www.loom.com/share/b5180d7e1da34919b8e8a41e199716e1
 Report: [Final Report - CIS5500.pdf](https://github.com/zanenzhang/CIS5500-Team-Project/files/9367292/Final.Report.-.CIS5500.pdf)
